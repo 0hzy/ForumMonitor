@@ -21,7 +21,7 @@ Program działa jako gotowa aplikacja `.exe` wraz z wymaganymi plikami `.dll` �
 3. Uruchom plik:
 
 ```text
-ForumMonitorWpf.exe
+ForumMonitor.exe
 ```
 
 > ⚠️ **Nie przenoś samego pliku `.exe` bez plików `.dll`** — są one wymagane do prawidłowego działania programu.
